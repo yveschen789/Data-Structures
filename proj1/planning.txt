@@ -1,0 +1,51 @@
+Bioligists Grep
+planning.txt
+Name: Yves Chen
+Date: 3/6/19
+
+
+1. The data structure I will use is a Trie or a tree that has each node hold
+an array of pointers to other nodes, speciffically 4 pointers. The character 
+A will be assigned to index 0, G to 1, and so on. Each node struct will also
+have a bool that will show if it is the end of the dna sequence or not. It is
+important to note that my struct will never explicitly hold the char values of
+the sequence rather the path of the nodes (whether they are null or exist) will
+signal if the character exsts for the string.
+
+2. My insert will essentially be a recursive function that goes down the depth
+of the trie and parse the string by character. There are two cases while 
+inserting: 1: all paths are not null and the function recurses until the string
+is completely parsed and emoty (each char removed) and the ending will make the
+bool true or 2: at one point, the next char is a Null node pointer and thus the
+function will make a new node that the correct pointer will point to until the
+string is fully copied and the ending char node will have the bool set to true.
+
+My query requests are essentially following the path of the specifed dna
+sequence parameter until there is no more matches. To be honest, I still
+am not set on how to satisfy query request but for prefix query, I will
+recurse down until the last common node. Then I would essentially set that
+node as the root and print the rest of the tree.
+
+My remove function will essentially be the opposite of an insert function,
+only deleting nodes if they are not shared by another dna sequence. most
+cases will be a reversal of the bool value in the node.
+
+3. I think this solution will be very fast since searching will be linear
+and at worst big O of height. Memory is wasted since each node will have
+four pointers but is still manageable since a normal trie that is for all
+letters has 26 node pointers per node.
+
+4. I plan on having one class that deals with the DNA implementation and
+a driver that reads in the commands and calls the class functions. Similar
+to hw3. I do not think I need another class for any other implementations.
+All insert, remove, and query functions will be written in the implementation
+class.
+
+5. No code written so far
+
+6. The best way to do this function is to have a recursive function.
+The first thing to do is check if the root node is Null, is it is
+simply return. Otherwise, I would iterate a for loop and call the same
+function again with the node pointers as new parameters. So essentially
+preorder traversal until you reach a leaf and all children are null,
+then it will return.

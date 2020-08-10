@@ -1,0 +1,143 @@
+/**********************************************************
+* Proj 1: Tries
+* Comp 15 Spring 2019 
+* README
+* Author: Yves Chen
+* Due Date: 3/13/19
+*********************************************************/
+
+Acknowledgements:
+Kevin, Lawrence, Ashley, Julie, Clara
+
+Purpose:
+The purpose of this program is to store and manage DNA sequences. There are 
+several functions that can be called with existing sequences in the program
+to output similarities and analyze prefixes. The driver allows clients to 
+input commands to store, remove and analyze DNA sequences.
+
+Files:
+
+MakeFile: includes compiling instructions for the main driver SeqMatch but
+also the test file Seq-Match. It compiles the Trie class files to achieve this.
+
+SeqMatch.cpp: Driver that takes in the files and which file to output to. This
+file processes the commands and takes DNA sequence inputs to then call public
+functions in the Trie class.
+
+SeqMatch-test.cpp: Test file that tests the insert, remove, prefix query, query
+request, numNodes, and deleteAll functions. It stores the outputs in a file of
+choice. It does not take in a file for commands. Comments include expected
+outputs and couts to console when it tests a part of the Trie class
+
+Trie.h: Header file for the Trie Class. It includes the Node Struct and all the
+public and pivate functions, and variables that the implementation class 
+requires to support the driver.
+
+Trie.cpp: Implementation class that has the source code to manage all the
+requests that the driver makes. It stores, removes, and analyzes all the
+DNA structures.
+
+test3.txt: text file full of commands to test my SeqMatch and compare
+outputs with the reference implementation.
+
+Compile/Run:
+
+compile full program with "make SeqMatch" and then run with
+ ./SeqMatch {infile} {outfile}
+
+ compile test program with "make SeqMatch-test" and then run with
+ ./SeqMatch-test {outfile}
+
+Data Structures & Algorithms:
+
+I used a Trie to store the DNA sequences. It is advantageous in that multiple
+prefixes that match are all stored as one, saving memory. Searching is also
+easier in that it goes down from the root of the tree and the code is short
+since recursion allows you to traverse the Trie. Each node struct is relatively
+light, storing a bool and an array of pointer to nodes (size four). Another
+advantage is in data abstraction where the letter of a sequence is stored as
+the index of the node pointer in the array and whether it is NULL or not.
+
+One disadvantage of this data structure is that each Node created has four
+pointers always and therefore, there will always be memory wasted on null
+pointers. Another disadvantage is that the root actually is not a 
+representation of a char in a DNA sequence so I had to code with that case 
+in mind. 
+
+Testing Details:
+
+While testing, I used my test file to rigorously test my functions. I ran into
+a problem with my print early on and was outfiling every time I found a char,
+but I modified my thinking and would only outfile when I hit the end of a word.
+That made the recursive cases easier to handle and keep stored strings
+correctly so that the outfile was a correct output.
+
+After perfecting my print and insert function, everything else was simple
+since my unit testing made the functionality of my functions crystal clear
+since every issue was displayed in my print.
+
+I actually wrote my prefix query before my query request and that made things
+easier since for the second half of my prefix query, I would call print: for
+my query request, I would call matchfinder at the same point instead since
+the output requested was very similar.
+
+Problems: My matchfinder function was void but what it did in reality was
+store the result as a private var in the Trie Class. I had issues returning
+the match since it was a recursive function and I would hit an illegal
+instruction case. 
+To get my rounding to work for my Query request fnction, I had to make sure
+all numbers in the math were floats or else the result would be rounded down
+automatically.
+
+Questions:
+
+Since all the DNA structures were stored in a Trie that is essentially a tree
+with each node representing a char of the structure, query requests would take
+at worst big O(height of tree) to process. The recursive functions would go
+deeper in the tree and append the chars at each step to formulate the DNA
+sequence. This is very efficient since storing takes just big O of the length
+of the sequence and searching/removing is the same.
+Space is not the most efficient since, each node has four pointers always
+and it is impossible for all nodes to point to other nodes, since there are
+leaves and each node pointed to has four more pointers. The trie is however
+much better than storing in an array of linked list since different sequences
+with the same prefixes are stored in the same area.
+
+I used test3.txt to test my SeqMatch function
+
+test3.txt:
+
+i TACAGGT 
+q TAGTAGT 
+i TAGTAGT 
+i CGATTG
+i GACTGATC
+i TAGAT
+i ATTCG
+i AGGT
+i ATTTGC
+i ATTT
+i ATTGCC
+q AT
+q ATTT
+q ATTGCC
+r ATT
+r ATTT
+p
+f pass2.txt
+pq TAG
+pq AT
+q ACCATAC 
+i TAC 
+q ACGT 
+n 
+p
+r TAG 
+r TAC
+r GACTGATC 
+r AGGT
+r ACCATAC
+n 
+p 
+d
+pq ACC

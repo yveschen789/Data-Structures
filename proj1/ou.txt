@@ -1,0 +1,59 @@
+TACAGGT inserted
+Match found: TACAGGT 29%
+TAGTAGT inserted
+CGATTG inserted
+GACTGATC inserted
+TAGAT inserted
+ATTCG inserted
+AGGT inserted
+ATTTGC inserted
+ATTT inserted
+ATTGCC inserted
+Match found: ATTT 50%
+Match found: ATTT 100%
+Match found: ATTGCC 100%
+ATT: No match found
+ATTT removed
+AGGT
+ATTCG
+ATTGCC
+ATTTGC
+CGATTG
+GACTGATC
+TACAGGT
+TAGAT
+TAGTAGT
+TAGAT
+TAGTAGT
+ATTCG
+ATTGCC
+ATTTGC
+Match found: AGGT 14%
+TAC inserted
+Match found: AGGT 25%
+There are 42 nodes in the database
+AGGT
+ATTCG
+ATTGCC
+ATTTGC
+CGATTG
+GACTGATC
+TAC
+TACAGGT
+TAGAT
+TAGTAGT
+TAG: No match found
+TAC removed
+GACTGATC removed
+AGGT removed
+ACCATAC: No match found
+There are 31 nodes in the database
+ATTCG
+ATTGCC
+ATTTGC
+CGATTG
+TACAGGT
+TAGAT
+TAGTAGT
+There are 0 nodes in the database
+ACC: No match found

@@ -1,0 +1,43 @@
+GTTAT inserted
+ATTGC inserted
+ATTAT inserted
+There are 12 nodes in the database
+CCGTATG inserted
+GTTAC inserted
+GTTAC was previously inserted
+GTAGCC inserted
+GTAGCCC inserted
+ATTAT
+ATTGC
+CCGTATG
+GTAGCC
+GTAGCCC
+GTTAC
+GTTAT
+GTAGCC
+GTAGCCC
+GTACG: No match found
+ATTAT
+ATTGC
+CATG: No match found
+CATG: No match found
+GTAGCCC removed
+ATTGC removed
+TTAG inserted
+ATTAT
+CCGTATG
+GTAGCC
+GTTAC
+GTTAT
+TTAG
+There are 0 nodes in the database
+TAGTAGT inserted
+TACAGGT inserted
+ACCATAC inserted
+ACAT inserted
+TAC inserted
+Match found: ACAT 50%
+Match found: ACAT 75%
+Match found: TACAGGT 57%
+CGT: No match found
+Match found: TAGTAGT 71%

@@ -1,0 +1,33 @@
+GTTAT inserted
+ATTGC inserted
+ATTAT inserted
+There are 12 nodes in the database
+CCGTATG inserted
+GTTAC inserted
+GTAGCC inserted
+GTAGCCC inserted
+GTAGCC
+GTAGCCC
+GTACG: No match found
+ATTAT
+ATTGC
+CATG inserted
+ATTAT
+ATTGC
+CATG
+CCGTATG
+GTAGCC
+GTAGCCC
+GTTAC
+GTTAT
+CATG removed
+CATG: No match found
+GTAGCCC removed
+ATTGC removed
+TTAG inserted
+ATTAT
+CCGTATG
+GTAGCC
+GTTAC
+GTTAT
+TTAG

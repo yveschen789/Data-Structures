@@ -1,0 +1,25 @@
+TACAGGT inserted
+Match found: TACAGGT 29%
+TAGTAGT inserted
+CGATTG inserted
+GACTGATC inserted
+TAGAT inserted
+ATTCG inserted
+AGGT inserted
+ATTTGC inserted
+ATTT inserted
+ATTGCC inserted
+Match found: ATTT 50%
+Match found: ATTT 100%
+Match found: ATTGCC 100%
+ATT: No match found
+ATTT removed
+AGGT
+ATTCG
+ATTGCC
+ATTTGC
+CGATTG
+GACTGATC
+TACAGGT
+TAGAT
+TAGTAGT

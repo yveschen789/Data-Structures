@@ -1,0 +1,34 @@
+i TACAGGT 
+q TAGTAGT 
+i TAGTAGT 
+i CGATTG
+i GACTGATC
+i TAGAT
+i ATTCG
+i AGGT
+i ATTTGC
+i ATTT
+i ATTGCC
+q AT
+q ATTT
+q ATTGCC
+r ATT
+r ATTT
+p
+f pass2.txt
+pq TAG
+pq AT
+q ACCATAC 
+i TAC 
+q ACGT 
+n 
+p
+r TAG 
+r TAC
+r GACTGATC 
+r AGGT
+r ACCATAC
+n 
+p 
+d
+pq ACC
