@@ -1,0 +1,845 @@
+i wish this was gibberish
+here: i
+i
+6253375586064260614
+14
+*****i/comp/15/files/extras/test-dirs/tinyData/test.txt1i
+here: wish
+wish
+13156014431060952952
+152
+*****wish/comp/15/files/extras/test-dirs/tinyData/test.txt1wish
+here: this
+this
+2428694746313403453
+53
+*****this/comp/15/files/extras/test-dirs/tinyData/test.txt1this
+here: was
+was
+10850050818246762331
+131
+*****was/comp/15/files/extras/test-dirs/tinyData/test.txt1was
+here: gibberish
+gibberish
+1168863057749205130
+130
+*****gibberish/comp/15/files/extras/test-dirs/tinyData/test.txt1gibberish
+it
+here: it
+it
+9644181479712412840
+40
+*****it/comp/15/files/extras/test-dirs/tinyData/test.txt2it
+makes
+here: makes
+makes
+1845390155756622418
+18
+*****makes/comp/15/files/extras/test-dirs/tinyData/test.txt3makes
+writing sample data easier.
+here: writing
+writing
+4345954876515820794
+194
+*****writing/comp/15/files/extras/test-dirs/tinyData/test.txt4writing
+here: sample
+sample
+4978090378809270500
+100
+*****sample/comp/15/files/extras/test-dirs/tinyData/test.txt4sample
+here: data
+data
+14752253762927134915
+115
+*****data/comp/15/files/extras/test-dirs/tinyData/test.txt4data
+here: easier
+easier
+6434612192176399828
+28
+*****easier/comp/15/files/extras/test-dirs/tinyData/test.txt4easier
+we are the champions
+here: we
+we
+14052840578663196217
+17
+*****we/comp/15/files/extras/test-dirs/tinyData/test.txt5we
+here: are
+are
+15544131993824574048
+48
+*****are/comp/15/files/extras/test-dirs/tinyData/test.txt5are
+here: the
+the
+12954739773548996726
+126
+*****the/comp/15/files/extras/test-dirs/tinyData/test.txt5the
+here: champions
+champions
+7840369618674348245
+45
+*****champions/comp/15/files/extras/test-dirs/tinyData/test.txt5champions
+we we we
+here: we
+we
+14052840578663196217
+17
+here: we
+we
+14052840578663196217
+17
+here: we
+we
+14052840578663196217
+17
+gerp gerp gerp
+here: gerp
+gerp
+6867852233405794377
+177
+*****gerp/comp/15/files/extras/test-dirs/tinyData/hello1gerp
+here: gerp
+gerp
+6867852233405794377
+177
+here: gerp
+gerp
+6867852233405794377
+177
+grep grep grep!
+here: grep
+grep
+12034406244358769627
+27
+*****grep/comp/15/files/extras/test-dirs/tinyData/a/you1grep
+here: grep
+grep
+12034406244358769627
+27
+here: grep
+grep
+12034406244358769627
+27
+MY KINGDOM FOR GREP
+here: MY
+my
+16213715952390665155
+155
+*****my/comp/15/files/extras/test-dirs/tinyData/a/you2MY
+here: KINGDOM
+kingdom
+9234889361234546941
+141
+*****kingdom/comp/15/files/extras/test-dirs/tinyData/a/you2KINGDOM
+here: FOR
+for
+6407148625343136198
+198
+*****for/comp/15/files/extras/test-dirs/tinyData/a/you2FOR
+here: GREP
+grep
+12034406244358769627
+27
+I've loved COMP15
+here: I've
+i've
+343217226199611080
+80
+*****i've/comp/15/files/extras/test-dirs/tinyData/a/found1I've
+here: loved
+loved
+7609857243849492251
+51
+*****loved/comp/15/files/extras/test-dirs/tinyData/a/found1loved
+here: COMP15
+comp15
+11784978815962154364
+164
+*****comp15/comp/15/files/extras/test-dirs/tinyData/a/found1COMP15
+
+
+
+I really learnt a lot.
+here: I
+i
+6253375586064260614
+14
+here: really
+really
+8440174595945348967
+167
+*****really/comp/15/files/extras/test-dirs/tinyData/a/found5really
+here: learnt
+learnt
+5041968736315951834
+34
+*****learnt/comp/15/files/extras/test-dirs/tinyData/a/found5learnt
+here: a
+a
+4993892634952068459
+59
+*****a/comp/15/files/extras/test-dirs/tinyData/a/found5a
+here: lot
+lot
+17496789548579973743
+143
+*****lot/comp/15/files/extras/test-dirs/tinyData/a/found5lot
+remember all the puns?
+here: remember
+remember
+4390674393796983719
+119
+*****remember/comp/15/files/extras/test-dirs/tinyData/b/hehe.txt1remember
+here: all
+all
+10316231707442838174
+174
+*****all/comp/15/files/extras/test-dirs/tinyData/b/hehe.txt1all
+here: the
+the
+12954739773548996726
+126
+here: puns
+puns
+1053769819109564730
+130
+dup: gibberish+ 1168863057749205130
+130
+wait you don't?
+here: wait
+wait
+16709034088844413624
+24
+*****wait/comp/15/files/extras/test-dirs/tinyData/b/hehe.txt2wait
+here: you
+you
+12061210943727743834
+34
+dup: learnt+ 5041968736315951834
+34
+here: don't
+don't
+11137672330496612354
+154
+*****don't/comp/15/files/extras/test-dirs/tinyData/b/hehe.txt2don't
+But I put in all of that effort to think up those super punny puns.
+here: But
+but
+10583791752542552319
+119
+dup: remember+ 4390674393796983719
+119
+here: I
+i
+6253375586064260614
+14
+here: put
+put
+5615941437138259288
+88
+*****put/comp/15/files/extras/test-dirs/tinyData/b/hehe.txt3put
+here: in
+in
+1963669536318759765
+165
+*****in/comp/15/files/extras/test-dirs/tinyData/b/hehe.txt3in
+here: all
+all
+10316231707442838174
+174
+here: of
+of
+13276516790683730673
+73
+*****of/comp/15/files/extras/test-dirs/tinyData/b/hehe.txt3of
+here: that
+that
+15843861542616104093
+93
+*****that/comp/15/files/extras/test-dirs/tinyData/b/hehe.txt3that
+here: effort
+effort
+5034082518435607446
+46
+*****effort/comp/15/files/extras/test-dirs/tinyData/b/hehe.txt3effort
+here: to
+to
+14919192272650323038
+38
+*****to/comp/15/files/extras/test-dirs/tinyData/b/hehe.txt3to
+here: think
+think
+15467136572348140120
+120
+*****think/comp/15/files/extras/test-dirs/tinyData/b/hehe.txt3think
+here: up
+up
+15729576914325992917
+117
+*****up/comp/15/files/extras/test-dirs/tinyData/b/hehe.txt3up
+here: those
+those
+9940608167742422219
+19
+*****those/comp/15/files/extras/test-dirs/tinyData/b/hehe.txt3those
+here: super
+super
+12310742584714373570
+170
+*****super/comp/15/files/extras/test-dirs/tinyData/b/hehe.txt3super
+here: punny
+punny
+3258981249698170588
+188
+*****punny/comp/15/files/extras/test-dirs/tinyData/b/hehe.txt3punny
+here: puns
+puns
+1053769819109564730
+130
+youre making me sad.
+here: youre
+youre
+9393144017689258563
+163
+*****youre/comp/15/files/extras/test-dirs/tinyData/b/hehe.txt4youre
+here: making
+making
+16031909440283527374
+174
+dup: all+ 10316231707442838174
+174
+here: me
+me
+7820064715117096706
+106
+*****me/comp/15/files/extras/test-dirs/tinyData/b/hehe.txt4me
+here: sad
+sad
+2737835949459824779
+179
+*****sad/comp/15/files/extras/test-dirs/tinyData/b/hehe.txt4sad
+
+
+
+
+
+
+
+Remember "Tree-Mendous Alphabetizer"? I thought that one was pretty good.
+here: Remember
+remember
+4390674393796983719
+119
+here: Tree-Mendous
+tree-mendous
+10486546454605099385
+185
+*****tree-mendous/comp/15/files/extras/test-dirs/tinyData/b/hehe.txt12Tree-Mendous
+here: Alphabetizer
+alphabetizer
+6470316792570208753
+153
+*****alphabetizer/comp/15/files/extras/test-dirs/tinyData/b/hehe.txt12Alphabetizer
+here: I
+i
+6253375586064260614
+14
+here: thought
+thought
+15047670969826442393
+193
+*****thought/comp/15/files/extras/test-dirs/tinyData/b/hehe.txt12thought
+here: that
+that
+15843861542616104093
+93
+here: one
+one
+16780311998597636082
+82
+*****one/comp/15/files/extras/test-dirs/tinyData/b/hehe.txt12one
+here: was
+was
+10850050818246762331
+131
+here: pretty
+pretty
+2511157080732242096
+96
+*****pretty/comp/15/files/extras/test-dirs/tinyData/b/hehe.txt12pretty
+here: good
+good
+8201253630878770494
+94
+*****good/comp/15/files/extras/test-dirs/tinyData/b/hehe.txt12good
+Are you excited for 40?
+here: Are
+are
+15544131993824574048
+48
+here: you
+you
+12061210943727743834
+34
+here: excited
+excited
+16036254886690020751
+151
+*****excited/comp/15/files/extras/test-dirs/tinyData/b/c/me1excited
+here: for
+for
+6407148625343136198
+198
+here: 40
+40
+14336433743185782828
+28
+dup: easier+ 6434612192176399828
+28
+
+
+Its going to be lit!
+here: Its
+its
+1012994052362236104
+104
+*****its/comp/15/files/extras/test-dirs/tinyData/b/c/me4Its
+here: going
+going
+8622123536346586719
+119
+dup: but+ 10583791752542552319
+119
+here: to
+to
+14919192272650323038
+38
+here: be
+be
+4646116485951988985
+185
+dup: tree-mendous+ 10486546454605099385
+185
+here: lit
+lit
+18063896991883327604
+4
+*****lit/comp/15/files/extras/test-dirs/tinyData/b/c/me4lit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i wish this was gibberish
+it
+makes
+writing sample data easier.
+we are the champions
+we we we
+gerp gerp gerp
+grep grep grep!
+MY KINGDOM FOR GREP
+I've loved COMP15
+
+
+
+I really learnt a lot.
+remember all the puns?
+wait you don't?
+But I put in all of that effort to think up those super punny puns.
+youre making me sad.
+
+
+
+
+
+
+
+Remember "Tree-Mendous Alphabetizer"? I thought that one was pretty good.
+Are you excited for 40?
+
+
+Its going to be lit!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------TABLE---------------
+CAPACITY = 200
+COUNT = 61
+
+List Length = 1
+idx= 4, key= lit, words= lit, lnum= /comp/15/files/extras/test-dirs/tinyData/b/c/me4
+
+
+List Length = 1
+idx= 14, key= i, words= i, lnum= /comp/15/files/extras/test-dirs/tinyData/test.txt1
+I, lnum= /comp/15/files/extras/test-dirs/tinyData/a/found5
+I, lnum= /comp/15/files/extras/test-dirs/tinyData/b/hehe.txt3
+I, lnum= /comp/15/files/extras/test-dirs/tinyData/b/hehe.txt12
+
+
+List Length = 1
+idx= 17, key= we, words= we, lnum= /comp/15/files/extras/test-dirs/tinyData/test.txt5
+we, lnum= /comp/15/files/extras/test-dirs/tinyData/test.txt6
+we, lnum= /comp/15/files/extras/test-dirs/tinyData/test.txt6
+we, lnum= /comp/15/files/extras/test-dirs/tinyData/test.txt6
+
+
+List Length = 1
+idx= 18, key= makes, words= makes, lnum= /comp/15/files/extras/test-dirs/tinyData/test.txt3
+
+
+List Length = 1
+idx= 19, key= those, words= those, lnum= /comp/15/files/extras/test-dirs/tinyData/b/hehe.txt3
+
+
+List Length = 1
+idx= 24, key= wait, words= wait, lnum= /comp/15/files/extras/test-dirs/tinyData/b/hehe.txt2
+
+
+List Length = 1
+idx= 27, key= grep, words= grep, lnum= /comp/15/files/extras/test-dirs/tinyData/a/you1
+grep, lnum= /comp/15/files/extras/test-dirs/tinyData/a/you1
+grep, lnum= /comp/15/files/extras/test-dirs/tinyData/a/you1
+GREP, lnum= /comp/15/files/extras/test-dirs/tinyData/a/you2
+
+
+List Length = 2
+idx= 28, key= easier, words= easier, lnum= /comp/15/files/extras/test-dirs/tinyData/test.txt4
+
+idx= 28, key= 40, words= 40, lnum= /comp/15/files/extras/test-dirs/tinyData/b/c/me1
+
+
+List Length = 2
+idx= 34, key= learnt, words= learnt, lnum= /comp/15/files/extras/test-dirs/tinyData/a/found5
+
+idx= 34, key= you, words= you, lnum= /comp/15/files/extras/test-dirs/tinyData/b/hehe.txt2
+you, lnum= /comp/15/files/extras/test-dirs/tinyData/b/c/me1
+
+
+List Length = 1
+idx= 38, key= to, words= to, lnum= /comp/15/files/extras/test-dirs/tinyData/b/hehe.txt3
+to, lnum= /comp/15/files/extras/test-dirs/tinyData/b/c/me4
+
+
+List Length = 1
+idx= 40, key= it, words= it, lnum= /comp/15/files/extras/test-dirs/tinyData/test.txt2
+
+
+List Length = 1
+idx= 45, key= champions, words= champions, lnum= /comp/15/files/extras/test-dirs/tinyData/test.txt5
+
+
+List Length = 1
+idx= 46, key= effort, words= effort, lnum= /comp/15/files/extras/test-dirs/tinyData/b/hehe.txt3
+
+
+List Length = 1
+idx= 48, key= are, words= are, lnum= /comp/15/files/extras/test-dirs/tinyData/test.txt5
+Are, lnum= /comp/15/files/extras/test-dirs/tinyData/b/c/me1
+
+
+List Length = 1
+idx= 51, key= loved, words= loved, lnum= /comp/15/files/extras/test-dirs/tinyData/a/found1
+
+
+List Length = 1
+idx= 53, key= this, words= this, lnum= /comp/15/files/extras/test-dirs/tinyData/test.txt1
+
+
+List Length = 1
+idx= 59, key= a, words= a, lnum= /comp/15/files/extras/test-dirs/tinyData/a/found5
+
+
+List Length = 1
+idx= 73, key= of, words= of, lnum= /comp/15/files/extras/test-dirs/tinyData/b/hehe.txt3
+
+
+List Length = 1
+idx= 80, key= i've, words= I've, lnum= /comp/15/files/extras/test-dirs/tinyData/a/found1
+
+
+List Length = 1
+idx= 82, key= one, words= one, lnum= /comp/15/files/extras/test-dirs/tinyData/b/hehe.txt12
+
+
+List Length = 1
+idx= 88, key= put, words= put, lnum= /comp/15/files/extras/test-dirs/tinyData/b/hehe.txt3
+
+
+List Length = 1
+idx= 93, key= that, words= that, lnum= /comp/15/files/extras/test-dirs/tinyData/b/hehe.txt3
+that, lnum= /comp/15/files/extras/test-dirs/tinyData/b/hehe.txt12
+
+
+List Length = 1
+idx= 94, key= good, words= good, lnum= /comp/15/files/extras/test-dirs/tinyData/b/hehe.txt12
+
+
+List Length = 1
+idx= 96, key= pretty, words= pretty, lnum= /comp/15/files/extras/test-dirs/tinyData/b/hehe.txt12
+
+
+List Length = 1
+idx= 100, key= sample, words= sample, lnum= /comp/15/files/extras/test-dirs/tinyData/test.txt4
+
+
+List Length = 1
+idx= 104, key= its, words= Its, lnum= /comp/15/files/extras/test-dirs/tinyData/b/c/me4
+
+
+List Length = 1
+idx= 106, key= me, words= me, lnum= /comp/15/files/extras/test-dirs/tinyData/b/hehe.txt4
+
+
+List Length = 1
+idx= 115, key= data, words= data, lnum= /comp/15/files/extras/test-dirs/tinyData/test.txt4
+
+
+List Length = 1
+idx= 117, key= up, words= up, lnum= /comp/15/files/extras/test-dirs/tinyData/b/hehe.txt3
+
+
+List Length = 3
+idx= 119, key= remember, words= remember, lnum= /comp/15/files/extras/test-dirs/tinyData/b/hehe.txt1
+Remember, lnum= /comp/15/files/extras/test-dirs/tinyData/b/hehe.txt12
+
+idx= 119, key= but, words= But, lnum= /comp/15/files/extras/test-dirs/tinyData/b/hehe.txt3
+
+idx= 119, key= going, words= going, lnum= /comp/15/files/extras/test-dirs/tinyData/b/c/me4
+
+
+List Length = 1
+idx= 120, key= think, words= think, lnum= /comp/15/files/extras/test-dirs/tinyData/b/hehe.txt3
+
+
+List Length = 1
+idx= 126, key= the, words= the, lnum= /comp/15/files/extras/test-dirs/tinyData/test.txt5
+the, lnum= /comp/15/files/extras/test-dirs/tinyData/b/hehe.txt1
+
+
+List Length = 2
+idx= 130, key= gibberish, words= gibberish, lnum= /comp/15/files/extras/test-dirs/tinyData/test.txt1
+
+idx= 130, key= puns, words= puns, lnum= /comp/15/files/extras/test-dirs/tinyData/b/hehe.txt1
+puns, lnum= /comp/15/files/extras/test-dirs/tinyData/b/hehe.txt3
+
+
+List Length = 1
+idx= 131, key= was, words= was, lnum= /comp/15/files/extras/test-dirs/tinyData/test.txt1
+was, lnum= /comp/15/files/extras/test-dirs/tinyData/b/hehe.txt12
+
+
+List Length = 1
+idx= 141, key= kingdom, words= KINGDOM, lnum= /comp/15/files/extras/test-dirs/tinyData/a/you2
+
+
+List Length = 1
+idx= 143, key= lot, words= lot, lnum= /comp/15/files/extras/test-dirs/tinyData/a/found5
+
+
+List Length = 1
+idx= 151, key= excited, words= excited, lnum= /comp/15/files/extras/test-dirs/tinyData/b/c/me1
+
+
+List Length = 1
+idx= 152, key= wish, words= wish, lnum= /comp/15/files/extras/test-dirs/tinyData/test.txt1
+
+
+List Length = 1
+idx= 153, key= alphabetizer, words= Alphabetizer, lnum= /comp/15/files/extras/test-dirs/tinyData/b/hehe.txt12
+
+
+List Length = 1
+idx= 154, key= don't, words= don't, lnum= /comp/15/files/extras/test-dirs/tinyData/b/hehe.txt2
+
+
+List Length = 1
+idx= 155, key= my, words= MY, lnum= /comp/15/files/extras/test-dirs/tinyData/a/you2
+
+
+List Length = 1
+idx= 163, key= youre, words= youre, lnum= /comp/15/files/extras/test-dirs/tinyData/b/hehe.txt4
+
+
+List Length = 1
+idx= 164, key= comp15, words= COMP15, lnum= /comp/15/files/extras/test-dirs/tinyData/a/found1
+
+
+List Length = 1
+idx= 165, key= in, words= in, lnum= /comp/15/files/extras/test-dirs/tinyData/b/hehe.txt3
+
+
+List Length = 1
+idx= 167, key= really, words= really, lnum= /comp/15/files/extras/test-dirs/tinyData/a/found5
+
+
+List Length = 1
+idx= 170, key= super, words= super, lnum= /comp/15/files/extras/test-dirs/tinyData/b/hehe.txt3
+
+
+List Length = 2
+idx= 174, key= all, words= all, lnum= /comp/15/files/extras/test-dirs/tinyData/b/hehe.txt1
+all, lnum= /comp/15/files/extras/test-dirs/tinyData/b/hehe.txt3
+
+idx= 174, key= making, words= making, lnum= /comp/15/files/extras/test-dirs/tinyData/b/hehe.txt4
+
+
+List Length = 1
+idx= 177, key= gerp, words= gerp, lnum= /comp/15/files/extras/test-dirs/tinyData/hello1
+gerp, lnum= /comp/15/files/extras/test-dirs/tinyData/hello1
+gerp, lnum= /comp/15/files/extras/test-dirs/tinyData/hello1
+
+
+List Length = 1
+idx= 179, key= sad, words= sad, lnum= /comp/15/files/extras/test-dirs/tinyData/b/hehe.txt4
+
+
+List Length = 2
+idx= 185, key= tree-mendous, words= Tree-Mendous, lnum= /comp/15/files/extras/test-dirs/tinyData/b/hehe.txt12
+
+idx= 185, key= be, words= be, lnum= /comp/15/files/extras/test-dirs/tinyData/b/c/me4
+
+
+List Length = 1
+idx= 188, key= punny, words= punny, lnum= /comp/15/files/extras/test-dirs/tinyData/b/hehe.txt3
+
+
+List Length = 1
+idx= 193, key= thought, words= thought, lnum= /comp/15/files/extras/test-dirs/tinyData/b/hehe.txt12
+
+
+List Length = 1
+idx= 194, key= writing, words= writing, lnum= /comp/15/files/extras/test-dirs/tinyData/test.txt4
+
+
+List Length = 1
+idx= 198, key= for, words= FOR, lnum= /comp/15/files/extras/test-dirs/tinyData/a/you2
+for, lnum= /comp/15/files/extras/test-dirs/tinyData/b/c/me1
+
