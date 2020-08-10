@@ -1,0 +1,67 @@
+/*********************************************************
+* Homework 2: Linked Lists
+* Comp 15 Spring 2019 
+* README
+* Author: 
+*
+*********************************************************/
+
+Compile/run: Compile using "make train-conductor", run executable with
+"./train-conductor"
+
+Program Purpose: This homework assignment covers linked lists. The station
+class must be implemented with: a parameterized constructor, isEqual, and
+Print. The LinkedList class must also be implemented with: A standard
+destructor, insertStation, removeStation, makeEmpty, Print, and 
+getNextStation. 
+
+Acknowledgements: Julie Yeung
+
+Files: 
+
+train-conductor.cpp: Fully implemented driver. Opens a file, reads in
+station names, and inserts them into a linked list (along with deleting)
+a few. 
+
+LinkedList.cpp: Implementation of a standard LinkedList class. To be written 
+in this class by the student are a destructor, insertStation,
+removeStation, makeEmpty, Print, and getNextStation. 
+
+LinkedList.h: Interface of LinkedList class.
+
+NodeType.h: Small struct defining a unit of information for the LinkedList class.
+
+Station.cpp: Station class implementation to be implemented by the student.
+Write a default constructor, parameterized constructor, print, isEqual,
+getAccess, and getName.
+
+Station.h: Station class interface to be written by the student. 
+
+glx.txt: Text file of stations with Y/N accessibility.
+
+reference_all_stations.txt: Reference implementation of result printing
+the ontouched list after insertion. It will be in reverse order of insert.
+Can be used with diff to test correctness of student program. 
+
+reference_remove_some.txt: Reference implementation of result after
+removing some stations. Can be used with diff to test correctness of
+student program.
+
+Data Structures: The main data structure of this lab is a singly linked list.
+Inserting into a linked list is O(1), as an element can either be inserted
+at the head or tail. Access is O(n), because worst case the element that is
+being looked for is the last element in the list. A linked list is useful
+because it can be used dynamically and it is easy to insert and delete.
+
+Testing:
+
+I created a seperate test file to test every time I wrote a function and
+ensure it worked. I updated the make file to include "test.cpp" as a driver.
+I would hardcode my stations and hardcode the insertions and deletions and put
+cout statements between every one to find out exactly when something would go
+wrong when executing the test function.
+
+If seg faults would arise (these were the main bugs), I would write cout and
+cerr statements to find where the errors were. I realized one issue with my
+remove function was that it was unable to remove a node if it was the head.
+I thus heardcoded a case that fixed that. 
