@@ -1,0 +1,52 @@
+/**********************************************************
+* HW4: Binary Search Tree
+* Comp 15 Spring 2019 
+* README
+* Author: Yves Chen
+*
+*********************************************************/
+
+Compile/run: Compile using "make", run executable with
+"./hw4"
+
+go into the unittests directory andcompile make with unittests test and run 
+./unittests to test function
+
+Program Purpose: This homework assignment provides functions to make 
+a binary search tree and the driver uses the implementation to create
+a mock tree 
+
+Acknowledgements: 
+
+Files: 
+main.cpp: Driver provided for us 
+
+BinarySearchTree.cpp: has all the implementation functions
+
+BinartSearchTree.h: Interface for BST class
+
+BinarySearchTree-unittests.cpp: unittests for BST with google tests
+
+runalltests.cpp: driver for unit tests
+
+Had help from Lawrence and Kevin
+
+Data Structures:
+
+structs of nodes pointing to two childs (structs of node)
+
+Testing: 
+I would write the function and then use google tests to test the function.
+Therefore before moving on, I would know the function is working.
+
+I would also comment out sections of the driver and compile and run to 
+break the program into pieces as well.
+
+As for writing the recursive functions, I would just write a little bit and
+run it even when I know it was incomplete to diagnose more thoughrougly where
+the errors were. for example, I would print the tree and if the right child
+was prnted wrong, I knew I had to change the code having to point to that
+right child.
+
+Therefore when I finished writing all the functions and ran diff, it worked 
+perfectly
